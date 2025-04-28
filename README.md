@@ -1,6 +1,6 @@
 # Formulário de Login 🔐
 
-Este projeto é uma página de login criada para praticar HTML e CSS.
+Este projeto é uma página de login criada para praticar HTML e CSS, focando em estruturação de formulários e estilização de campos.
 
 ## 📌 Funcionalidades
 - Formulário de login com campos de e-mail e senha.
