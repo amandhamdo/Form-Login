@@ -21,6 +21,7 @@ Este projeto é uma página de login criada para praticar HTML e CSS.
 ![Formulário de Cadastro](./imagens/login.png)
 
 📚 Aprendizados
+
 Criação de estrutura de login.
 
 Estilização de formulários e botões.
